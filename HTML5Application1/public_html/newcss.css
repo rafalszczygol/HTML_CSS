@@ -7,4 +7,7 @@ and open the template in the editor.
     Created on : Nov 17, 2018, 6:09:51 PM
     Author     : student
 */
-
+p{
+    color: aqua;
+    background-color: greenyellow;
+}
